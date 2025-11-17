@@ -58,18 +58,6 @@ Wallet, transactions, withdrawals, currency exchange with smooth UX.
 
 ---
 
-## 📈 **GitHub Stats**
-
-<p align="left">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veljkovic92&layout=compact&theme=react&hide_border=true" />
-</p>
-
-<p align="left">
-  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=veljkovic92&theme=react&hide_border=true" />
-</p>
-
----
-
 ## 🌱 **Currently Learning**
 - Advanced backend architecture  
 - Authentication best practices  
