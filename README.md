@@ -5,7 +5,7 @@ I'm a full-stack developer from Serbia with several years of experience building
 
 I specialize in:
 - **ReactJS / NextJS** (complex UIs, performance optimization, SSR/SSG, state management)
-- **NodeJS** (API design, authentication, backend architecture)
+- **NodeJS / NestJS** (API design, authentication, backend architecture)
 - **TypeScript** (type-safe applications across front & back end)
 - **SQL & NoSQL databases** (PostgreSQL, MongoDB)
 - Building products focused on **clean architecture, security, and seamless user experience**
@@ -23,7 +23,7 @@ I'm passionate about learning, improving, and creating digital products that mak
 - UI/UX best practices, responsive design
 
 ### **Backend**
-- NodeJS  
+- NodeJS, NestJS  
 - REST APIs, GraphQL basics  
 - Authentication & Authorization  
 - SQL (PostgreSQL), NoSQL (MongoDB)  
@@ -63,14 +63,6 @@ Wallet, transactions, withdrawals, currency exchange with smooth UX.
 - Authentication best practices  
 - Production-grade deployments  
 - Improving German 🇩🇪 (B2 level aiming for C1)  
-
----
-
-## 🎯 **Goals for 2025–2026**
-- Build 2–3 polished public demo apps (NextJS + NodeJS)  
-- Contribute to open-source (React ecosystem, Node tools)  
-- Improve GitHub activity and portfolio  
-- Share knowledge through videos on my **StefiMoto** channel 🎥🏍️  
 
 ---
 
